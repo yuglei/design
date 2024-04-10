@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T01:23:34.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="HI8NkK3_Ip9WgdttKoQf" version="24.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-10T01:29:05.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="d7CJadiL09ayq1zdE1cg" version="24.2.2" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="系统架构">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -154,6 +154,13 @@
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="N0tUkwhPcD_Nr_h9eAbR-11" target="mWmJfGK1pVYnq5uqXTA9-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mWmJfGK1pVYnq5uqXTA9-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="N0tUkwhPcD_Nr_h9eAbR-11" target="mWmJfGK1pVYnq5uqXTA9-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="1040" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="N0tUkwhPcD_Nr_h9eAbR-11" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="374" y="1020" width="80" height="40" as="geometry" />
@@ -412,6 +419,15 @@
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-40" value="课程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="360" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="mWmJfGK1pVYnq5uqXTA9-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mWmJfGK1pVYnq5uqXTA9-41" target="mWmJfGK1pVYnq5uqXTA9-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="440" />
+              <mxPoint x="370" y="490" />
+              <mxPoint x="360" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-41" value="课程信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
           <mxGeometry x="400" y="420" width="80" height="40" as="geometry" />
         </mxCell>
@@ -453,6 +469,27 @@
               <mxPoint x="500" y="460" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mWmJfGK1pVYnq5uqXTA9-55" value="课表查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mWmJfGK1pVYnq5uqXTA9-61" value="作业管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mWmJfGK1pVYnq5uqXTA9-62" value="成绩管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mWmJfGK1pVYnq5uqXTA9-63" value="作业管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="500" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mWmJfGK1pVYnq5uqXTA9-64" value="成绩管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mWmJfGK1pVYnq5uqXTA9-65" value="发布作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mWmJfGK1pVYnq5uqXTA9-66" value="修改作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="560" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
