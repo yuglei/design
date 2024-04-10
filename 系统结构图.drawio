@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T04:46:30.460Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CVUBnkX4JC22AXyqrdNv" version="24.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-10T07:25:46.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_pd4_SQlB6TDhC48G1wg" version="24.2.2" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="系统架构">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N0tUkwhPcD_Nr_h9eAbR-4" value="学生&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="384" y="1090" width="60" height="60" as="geometry" />
+          <mxGeometry x="384" y="1000" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N0tUkwhPcD_Nr_h9eAbR-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="N0tUkwhPcD_Nr_h9eAbR-6" target="N0tUkwhPcD_Nr_h9eAbR-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -174,12 +174,12 @@
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="N0tUkwhPcD_Nr_h9eAbR-11" target="mWmJfGK1pVYnq5uqXTA9-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="1040" />
+              <mxPoint x="360" y="950" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="N0tUkwhPcD_Nr_h9eAbR-11" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="374" y="1020" width="80" height="40" as="geometry" />
+          <mxGeometry x="374" y="930" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N0tUkwhPcD_Nr_h9eAbR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="N0tUkwhPcD_Nr_h9eAbR-12" target="N0tUkwhPcD_Nr_h9eAbR-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -260,16 +260,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N0tUkwhPcD_Nr_h9eAbR-50" value="学生信息管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1020" width="80" height="40" as="geometry" />
+          <mxGeometry x="520" y="930" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N0tUkwhPcD_Nr_h9eAbR-51" value="添加学生信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="747" y="640" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N0tUkwhPcD_Nr_h9eAbR-52" value="学生个人信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" parent="1" vertex="1">
-          <mxGeometry x="747" y="840" width="80" height="40" as="geometry" />
+          <mxGeometry x="747" y="820" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N0tUkwhPcD_Nr_h9eAbR-53" value="查看修改个人信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="1020" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="930" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N0tUkwhPcD_Nr_h9eAbR-59" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="N0tUkwhPcD_Nr_h9eAbR-51" target="N0tUkwhPcD_Nr_h9eAbR-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -279,8 +279,8 @@
         </mxCell>
         <mxCell id="N0tUkwhPcD_Nr_h9eAbR-60" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="N0tUkwhPcD_Nr_h9eAbR-52" target="N0tUkwhPcD_Nr_h9eAbR-53" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="718.67" y="880" as="sourcePoint" />
-            <mxPoint x="718.67" y="1040" as="targetPoint" />
+            <mxPoint x="718.67" y="860" as="sourcePoint" />
+            <mxPoint x="718.67" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="N0tUkwhPcD_Nr_h9eAbR-62" target="mWmJfGK1pVYnq5uqXTA9-1">
@@ -326,13 +326,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-7" value="查看个人考勤信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="800" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="780" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-15" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mWmJfGK1pVYnq5uqXTA9-9" target="mWmJfGK1pVYnq5uqXTA9-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-9" value="考勤管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="880" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-11" value="添加学生考勤信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="440" width="80" height="40" as="geometry" />
@@ -343,7 +343,7 @@
             <mxPoint x="290" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mWmJfGK1pVYnq5uqXTA9-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="N0tUkwhPcD_Nr_h9eAbR-66">
+        <mxCell id="mWmJfGK1pVYnq5uqXTA9-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mWmJfGK1pVYnq5uqXTA9-7" target="N0tUkwhPcD_Nr_h9eAbR-66">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="800" as="sourcePoint" />
             <mxPoint x="170" y="750" as="targetPoint" />
@@ -379,7 +379,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-19" value="请假管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="880" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mWmJfGK1pVYnq5uqXTA9-21" target="mWmJfGK1pVYnq5uqXTA9-22">
           <mxGeometry relative="1" as="geometry">
@@ -395,9 +395,9 @@
           <mxGeometry x="280" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-24" value="添加查看撤销请假信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="800" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="780" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mWmJfGK1pVYnq5uqXTA9-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="mWmJfGK1pVYnq5uqXTA9-22">
+        <mxCell id="mWmJfGK1pVYnq5uqXTA9-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mWmJfGK1pVYnq5uqXTA9-24" target="mWmJfGK1pVYnq5uqXTA9-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="800" as="sourcePoint" />
             <mxPoint x="290" y="750" as="targetPoint" />
@@ -487,7 +487,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-55" value="课表查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="880" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mWmJfGK1pVYnq5uqXTA9-61" target="mWmJfGK1pVYnq5uqXTA9-74">
           <mxGeometry relative="1" as="geometry" />
@@ -496,13 +496,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-61" value="作业管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="880" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-87" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mWmJfGK1pVYnq5uqXTA9-62" target="mWmJfGK1pVYnq5uqXTA9-83">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-62" value="成绩管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="880" width="80" height="40" as="geometry" />
+          <mxGeometry x="570" y="860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-69" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mWmJfGK1pVYnq5uqXTA9-63" target="mWmJfGK1pVYnq5uqXTA9-65">
           <mxGeometry relative="1" as="geometry" />
@@ -542,10 +542,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-74" value="查看编辑作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="384" y="800" width="80" height="40" as="geometry" />
+          <mxGeometry x="384" y="780" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-75" value="上传作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="800" width="80" height="40" as="geometry" />
+          <mxGeometry x="480" y="780" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mWmJfGK1pVYnq5uqXTA9-74" target="mWmJfGK1pVYnq5uqXTA9-67">
           <mxGeometry relative="1" as="geometry">
@@ -558,8 +558,7 @@
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mWmJfGK1pVYnq5uqXTA9-75" target="mWmJfGK1pVYnq5uqXTA9-67">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="800" />
-              <mxPoint x="500" y="660" />
+              <mxPoint x="520" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -573,7 +572,7 @@
           <mxGeometry x="570" y="720" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-83" value="查看个人成绩信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="800" width="80" height="40" as="geometry" />
+          <mxGeometry x="570" y="780" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mWmJfGK1pVYnq5uqXTA9-84" value="添加成绩信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="640" width="80" height="40" as="geometry" />
