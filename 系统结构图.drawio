@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T13:12:09.473Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8Xw2CSvd7DewDJqwIyEi" version="24.2.5" type="github" pages="33">
+<mxfile host="app.diagrams.net" modified="2024-04-15T13:14:43.684Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="J6g6FhIw566e2MCSCWuB" version="24.2.5" type="github" pages="34">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="系统架构">
     <mxGraphModel dx="1434" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -3558,6 +3558,53 @@
         </mxCell>
         <mxCell id="9LtwoJIqyDk44aByBy7w-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;选择班级&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="346.75" y="210" width="134.5" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fvXqxEZhUfMMNJMBNAmS" name="批改作业流程图">
+    <mxGraphModel dx="1434" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Wl8rWtE7pOWKgA2b_6rm-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Wl8rWtE7pOWKgA2b_6rm-2" target="Wl8rWtE7pOWKgA2b_6rm-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl8rWtE7pOWKgA2b_6rm-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;开始&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340.25" y="50" width="146" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl8rWtE7pOWKgA2b_6rm-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Wl8rWtE7pOWKgA2b_6rm-4" target="Wl8rWtE7pOWKgA2b_6rm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl8rWtE7pOWKgA2b_6rm-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;查看作业记录&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="346.75" y="140" width="134.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl8rWtE7pOWKgA2b_6rm-7" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;结束&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340.25" y="534.5" width="146" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl8rWtE7pOWKgA2b_6rm-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Wl8rWtE7pOWKgA2b_6rm-14" target="Wl8rWtE7pOWKgA2b_6rm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl8rWtE7pOWKgA2b_6rm-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;选择学生作业&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="346.75" y="210" width="134.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl8rWtE7pOWKgA2b_6rm-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Wl8rWtE7pOWKgA2b_6rm-15" target="Wl8rWtE7pOWKgA2b_6rm-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl8rWtE7pOWKgA2b_6rm-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;批改作业&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl8rWtE7pOWKgA2b_6rm-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Wl8rWtE7pOWKgA2b_6rm-17" target="Wl8rWtE7pOWKgA2b_6rm-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl8rWtE7pOWKgA2b_6rm-17" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;填写相关批改内容&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="370" width="134.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl8rWtE7pOWKgA2b_6rm-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Wl8rWtE7pOWKgA2b_6rm-19" target="Wl8rWtE7pOWKgA2b_6rm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Wl8rWtE7pOWKgA2b_6rm-19" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;提交批改&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
