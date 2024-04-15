@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T13:22:49.710Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="FCfPBauEjF044Q9jGAkn" version="24.2.5" type="github" pages="35">
+<mxfile host="app.diagrams.net" modified="2024-04-15T13:27:06.669Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TEmwfO7lZFgmpP93uKj9" version="24.2.5" type="github" pages="36">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="系统架构">
     <mxGraphModel dx="1434" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -3709,6 +3709,86 @@
         </mxCell>
         <mxCell id="Pkk0rm20tWuVeusvxSlv-23" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;教师审核&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MYMiAd1QeqNiMSCaTWpc" name="学生撤销请假申请流程图">
+    <mxGraphModel dx="1434" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jRY6gJIa2imo4Bykv8Xq-2" target="jRY6gJIa2imo4Bykv8Xq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;开始&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="40" width="146" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jRY6gJIa2imo4Bykv8Xq-4" target="jRY6gJIa2imo4Bykv8Xq-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;查询请假信息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="150" width="184.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jRY6gJIa2imo4Bykv8Xq-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="450" as="sourcePoint" />
+            <mxPoint x="414" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jRY6gJIa2imo4Bykv8Xq-23" target="jRY6gJIa2imo4Bykv8Xq-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="470" as="sourcePoint" />
+            <mxPoint x="413" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-7" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;结束&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340.25" y="610" width="146" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jRY6gJIa2imo4Bykv8Xq-14" target="jRY6gJIa2imo4Bykv8Xq-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="425" />
+              <mxPoint x="520" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;不通过&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="jRY6gJIa2imo4Bykv8Xq-10">
+          <mxGeometry x="-0.3618" y="1" relative="1" as="geometry">
+            <mxPoint y="-42" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jRY6gJIa2imo4Bykv8Xq-14" target="jRY6gJIa2imo4Bykv8Xq-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;通过&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="jRY6gJIa2imo4Bykv8Xq-12">
+          <mxGeometry x="-0.16" y="5" relative="1" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;撤销判断&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="328.5" y="390" width="171" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="jRY6gJIa2imo4Bykv8Xq-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="470" as="sourcePoint" />
+            <mxPoint x="414" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-23" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;撤销成功&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="530" width="96.75" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-26" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jRY6gJIa2imo4Bykv8Xq-24" target="jRY6gJIa2imo4Bykv8Xq-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-24" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;选择请假信息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="220" width="184.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="jRY6gJIa2imo4Bykv8Xq-25" target="jRY6gJIa2imo4Bykv8Xq-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jRY6gJIa2imo4Bykv8Xq-25" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;撤销请假信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353.25" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
