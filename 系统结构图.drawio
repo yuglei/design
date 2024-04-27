@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T07:05:34.580Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9YeOIWyyYSRJWw_iSPE7" version="24.2.7" type="github" pages="44">
+<mxfile host="app.diagrams.net" modified="2024-04-27T07:32:24.766Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Md_eUNnxu2yTrI_rD7C2" version="24.2.7" type="github" pages="44">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="系统架构">
     <mxGraphModel dx="1434" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -5107,7 +5107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-4" value="查询班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="80" width="90" height="40" as="geometry" />
+          <mxGeometry x="390" y="30" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-5" value="新增班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="130" width="90" height="40" as="geometry" />
@@ -5342,6 +5342,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-60" value="&amp;lt;&amp;lt;.include &amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="ew8ZshopdwshXMx52scy-59">
+          <mxGeometry x="0.051" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oo17wdegRLMc_Iq8puhw-1" value="撤销请假申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390.00000000000006" y="800" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oo17wdegRLMc_Iq8puhw-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;" edge="1" parent="1" source="tdirB3tZdcowidJq9Y_g-2" target="oo17wdegRLMc_Iq8puhw-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="710" as="sourcePoint" />
+            <mxPoint x="400" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oo17wdegRLMc_Iq8puhw-3" value="&amp;lt;&amp;lt;.include &amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="oo17wdegRLMc_Iq8puhw-2">
+          <mxGeometry x="0.051" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oo17wdegRLMc_Iq8puhw-4" value="删除班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="80" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oo17wdegRLMc_Iq8puhw-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tdirB3tZdcowidJq9Y_g-11" target="oo17wdegRLMc_Iq8puhw-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="140" as="sourcePoint" />
+            <mxPoint x="400" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oo17wdegRLMc_Iq8puhw-6" value="&amp;lt;&amp;lt;.include &amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="oo17wdegRLMc_Iq8puhw-5">
           <mxGeometry x="0.051" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
