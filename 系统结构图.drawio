@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T07:32:24.766Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Md_eUNnxu2yTrI_rD7C2" version="24.2.7" type="github" pages="44">
+<mxfile host="app.diagrams.net" modified="2024-04-27T07:32:58.332Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="msCoxvKPPMVISUmV0ss-" version="24.2.7" type="github" pages="44">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="系统架构">
     <mxGraphModel dx="1434" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -5418,7 +5418,7 @@
           <mxGeometry x="179.99999999999997" y="565" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hDA2Y-MFQQUC9HuR7Rux-15" value="提交请假申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390.00000000000006" y="680" width="90" height="40" as="geometry" />
+          <mxGeometry x="390.00000000000006" y="670" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hDA2Y-MFQQUC9HuR7Rux-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;" edge="1" parent="1" source="hDA2Y-MFQQUC9HuR7Rux-2" target="hDA2Y-MFQQUC9HuR7Rux-15">
           <mxGeometry relative="1" as="geometry">
@@ -5437,7 +5437,7 @@
         <mxCell id="hDA2Y-MFQQUC9HuR7Rux-27" value="查询课程表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="480" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hDA2Y-MFQQUC9HuR7Rux-31" value="批阅作业" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hDA2Y-MFQQUC9HuR7Rux-31" value="做作业" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="565" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hDA2Y-MFQQUC9HuR7Rux-34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="hDA2Y-MFQQUC9HuR7Rux-1" target="hDA2Y-MFQQUC9HuR7Rux-12">
@@ -5524,6 +5524,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hDA2Y-MFQQUC9HuR7Rux-74" value="&amp;lt;&amp;lt;.include &amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="hDA2Y-MFQQUC9HuR7Rux-73">
+          <mxGeometry x="0.051" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qrwvGdhNh2cU5xBzjZ5f-1" value="撤销请假申请" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390.00000000000006" y="720" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qrwvGdhNh2cU5xBzjZ5f-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;" edge="1" parent="1" source="hDA2Y-MFQQUC9HuR7Rux-2" target="qrwvGdhNh2cU5xBzjZ5f-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="670" as="sourcePoint" />
+            <mxPoint x="400" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qrwvGdhNh2cU5xBzjZ5f-3" value="&amp;lt;&amp;lt;.include &amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="qrwvGdhNh2cU5xBzjZ5f-2">
           <mxGeometry x="0.051" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
