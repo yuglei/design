@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-28T02:44:38.518Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="dBGFJkdEBjUqc1jgCrCi" version="24.3.1" type="github" pages="46">
+<mxfile host="app.diagrams.net" modified="2024-04-28T02:54:44.018Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="UvlMa-JzMB34AtLm3iDd" version="24.3.1" type="github" pages="46">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="系统架构">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -6054,11 +6054,62 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="9BHovuVIMQhZFuvwNJQy" name="第 46 页">
+  <diagram id="9BHovuVIMQhZFuvwNJQy" name="添加部门流程图">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dPl2DjBo4iCGzHAzx8mS-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dPl2DjBo4iCGzHAzx8mS-2" target="dPl2DjBo4iCGzHAzx8mS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dPl2DjBo4iCGzHAzx8mS-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;开始&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="40" width="146" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dPl2DjBo4iCGzHAzx8mS-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dPl2DjBo4iCGzHAzx8mS-4" target="dPl2DjBo4iCGzHAzx8mS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dPl2DjBo4iCGzHAzx8mS-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;输入部门信息&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="321.75" y="230" width="184.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dPl2DjBo4iCGzHAzx8mS-5" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;结束&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="341" y="560" width="146" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dPl2DjBo4iCGzHAzx8mS-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dPl2DjBo4iCGzHAzx8mS-7" target="dPl2DjBo4iCGzHAzx8mS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dPl2DjBo4iCGzHAzx8mS-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;部门列表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dPl2DjBo4iCGzHAzx8mS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dPl2DjBo4iCGzHAzx8mS-14" target="dPl2DjBo4iCGzHAzx8mS-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="365" />
+              <mxPoint x="540" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dPl2DjBo4iCGzHAzx8mS-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;不通过&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="dPl2DjBo4iCGzHAzx8mS-10">
+          <mxGeometry x="-0.0654" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dPl2DjBo4iCGzHAzx8mS-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dPl2DjBo4iCGzHAzx8mS-14" target="dPl2DjBo4iCGzHAzx8mS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dPl2DjBo4iCGzHAzx8mS-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;通过&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="dPl2DjBo4iCGzHAzx8mS-12">
+          <mxGeometry x="-0.2889" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dPl2DjBo4iCGzHAzx8mS-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;校验信息是否&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;符合规则&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="309" y="310" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dPl2DjBo4iCGzHAzx8mS-17" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="dPl2DjBo4iCGzHAzx8mS-15" target="dPl2DjBo4iCGzHAzx8mS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dPl2DjBo4iCGzHAzx8mS-15" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;选择上级部门&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="348.25" y="130" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
