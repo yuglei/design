@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T01:17:36.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MlSQ6ssx8aHIxWEi8txS" version="24.2.5" type="github" pages="47">
+<mxfile host="app.diagrams.net" modified="2024-05-21T01:38:04.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bb1JPZoLqzDKqYTC6-pM" version="24.2.5" type="github" pages="47">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="系统架构">
     <mxGraphModel dx="1050" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -5438,13 +5438,13 @@
           <mxGeometry x="80" y="350" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdirB3tZdcowidJq9Y_g-2" value="管理请假" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="680" width="90" height="40" as="geometry" />
+          <mxGeometry x="190" y="670" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tdirB3tZdcowidJq9Y_g-3" value="审批请假申请" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390.00000000000006" y="650" width="90" height="40" as="geometry" />
+          <mxGeometry x="390.00000000000006" y="620" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tdirB3tZdcowidJq9Y_g-4" value="查询请假申请" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390.00000000000006" y="700" width="90" height="40" as="geometry" />
+          <mxGeometry x="390.00000000000006" y="670" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tdirB3tZdcowidJq9Y_g-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="tdirB3tZdcowidJq9Y_g-1" target="tdirB3tZdcowidJq9Y_g-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -5481,16 +5481,16 @@
           <mxGeometry x="180" y="110" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tdirB3tZdcowidJq9Y_g-12" value="管理考试" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="400" width="90" height="40" as="geometry" />
+          <mxGeometry x="180" y="390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tdirB3tZdcowidJq9Y_g-13" value="管理课程" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="480" width="90" height="40" as="geometry" />
+          <mxGeometry x="180" y="460" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tdirB3tZdcowidJq9Y_g-14" value="管理作业" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="179.99999999999997" y="565" width="90" height="40" as="geometry" />
+          <mxGeometry x="179.99999999999997" y="540" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-1" value="提交请假申请" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390.00000000000006" y="750" width="90" height="40" as="geometry" />
+          <mxGeometry x="390.00000000000006" y="720" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;" parent="1" source="tdirB3tZdcowidJq9Y_g-2" target="ew8ZshopdwshXMx52scy-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -5504,10 +5504,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-4" value="查询班级" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="30" width="90" height="40" as="geometry" />
+          <mxGeometry x="390" y="40" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-5" value="新增班级" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="130" width="90" height="40" as="geometry" />
+          <mxGeometry x="390" y="140" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-7" value="新增学生" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="190" width="90" height="40" as="geometry" />
@@ -5522,28 +5522,28 @@
           <mxGeometry x="390" y="340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-12" value="成绩录入" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="400" width="90" height="40" as="geometry" />
+          <mxGeometry x="600" y="390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-13" value="新增考试记录" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="400" width="90" height="40" as="geometry" />
+          <mxGeometry x="390" y="390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-15" value="录入课程信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="480" width="90" height="40" as="geometry" />
+          <mxGeometry x="390" y="460" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-16" value="设置课表" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="450" width="90" height="40" as="geometry" />
+          <mxGeometry x="600" y="440" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-17" value="录入授课内容" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="500" width="90" height="40" as="geometry" />
+          <mxGeometry x="600" y="490" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-18" value="发布作业" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="550" width="90" height="40" as="geometry" />
+          <mxGeometry x="390" y="510" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-19" value="录入作业问题" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="550" width="90" height="40" as="geometry" />
+          <mxGeometry x="600" y="540" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-20" value="批阅作业" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="600" width="90" height="40" as="geometry" />
+          <mxGeometry x="600" y="590" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="tdirB3tZdcowidJq9Y_g-1" target="tdirB3tZdcowidJq9Y_g-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -5730,7 +5730,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-57" value="查询作业" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="600" width="90" height="40" as="geometry" />
+          <mxGeometry x="390" y="565" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ew8ZshopdwshXMx52scy-59" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ew8ZshopdwshXMx52scy-57" target="ew8ZshopdwshXMx52scy-20" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -5744,7 +5744,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oo17wdegRLMc_Iq8puhw-1" value="撤销请假申请" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390.00000000000006" y="800" width="90" height="40" as="geometry" />
+          <mxGeometry x="390.00000000000006" y="770" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oo17wdegRLMc_Iq8puhw-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;" parent="1" source="tdirB3tZdcowidJq9Y_g-2" target="oo17wdegRLMc_Iq8puhw-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -5758,7 +5758,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oo17wdegRLMc_Iq8puhw-4" value="删除班级" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="80" width="90" height="40" as="geometry" />
+          <mxGeometry x="390" y="90" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oo17wdegRLMc_Iq8puhw-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tdirB3tZdcowidJq9Y_g-11" target="oo17wdegRLMc_Iq8puhw-4" edge="1">
           <mxGeometry relative="1" as="geometry">
